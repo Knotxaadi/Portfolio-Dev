@@ -12,7 +12,7 @@ const Contact = () => {
   } = useForm();
 
   const onSubmit = async (data) => {
-    const req = await fetch("https://portfolio-dev-backend-eta.vercel.app/", {
+    const req = await fetch(import.meta.env.VITE_API_EMAIL_URL, {
       method: "POST",
       headers: { "content-Type": "application/json" },
       body: JSON.stringify(data),

@@ -12,7 +12,7 @@ const Contact = () => {
   } = useForm();
 
   const onSubmit = async (data) => {
-    const req = await fetch("http://localhost:5000/", {
+    const req = await fetch("https://portfolio-dev-backend-eta.vercel.app/", {
       method: "POST",
       headers: { "content-Type": "application/json" },
       body: JSON.stringify(data),

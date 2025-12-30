@@ -1,0 +1,81 @@
+body {
+  background-color: rgba(0, 0, 0, 0.966);
+}
+html {
+  scroll-behavior: smooth;
+}
+.ball {
+  animation: upside-down 4s ease-in-out infinite;
+}
+
+.textani {
+  animation: rotate-down 8s ease-in-out infinite;
+}
+
+.color_text {
+  background: linear-gradient(150deg, #00eaff, #a64dff);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.glass {
+  background-color: hsl(220 20% 7% / 0.1);
+  --tw-backdrop-blur: blur(24px);
+  backdrop-filter: var(--tw-backdrop-blur);
+  border-width: 1px;
+  border-color: hsl(220 15% 18% / 0.4);
+}
+
+.showing {
+  animation: showing 2s ease-in-out infinite;
+}
+
+.typewriter {
+  overflow: hidden;
+  white-space: nowrap;
+  width: 0;
+  animation: typing 2s steps(11, end) forwards;
+}
+
+@keyframes typing {
+  to {
+    width: 11ch;
+  }
+}
+
+@keyframes rotate-down {
+  0% {
+    transform: translateY(0px) rotateZ(8deg);
+  }
+  50% {
+    transform: translateY(20px) rotateZ(0deg);
+  }
+  100% {
+    transform: translateY(0px) rotateZ(8deg);
+  }
+}
+
+@keyframes upside-down {
+  0% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(10px);
+  }
+  100% {
+    transform: translateY(0px);
+  }
+}
+
+@keyframes showing {
+  0% {
+    opacity: 0%;
+  }
+  50% {
+    opacity: 100%;
+  }
+  100% {
+    opacity: 0%;
+  }
+}

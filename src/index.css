@@ -1,0 +1,31 @@
+@import "tailwindcss";
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: JetBrains Mono, monospace;
+  overflow-x: hidden;
+  /* font-family: Space Grotesk, sans-serif; */
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+/* track */
+::-webkit-scrollbar-track {
+  background: #0f0f14;
+}
+
+/* thumb */
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, #00eaff, #a64dff);
+  border-radius: 20px;
+}
+
+/* thumb on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(to bottom, #a64dff, #00eaff);
+}

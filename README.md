@@ -1,16 +1,84 @@
-# React + Vite
+# 👋 Hey, I'm Shashank
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> *I believe good code should feel like good cinema — invisible, intentional, and unforgettable.*
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧠 About Me
 
-## React Compiler
+I’m a **developer by logic** and a **storyteller by instinct**.  
+By day, I write code that solves problems.  
+By night, I frame stories that linger long after the screen fades.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 🎥 Director of Photography & Filmmaker  
+- 💻 Full-Stack Developer  
+- ✍️ Writer & Creative Thinker  
+- 🚀 Building ideas under the banner of **Knot**
 
-## Expanding the ESLint configuration
+I value strong foundations, timeless principles, and work that respects the craft.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech I Work With
+
+**Languages**
+- Python
+- JavaScript
+- HTML / CSS
+- Dart
+
+**Frameworks & Tools**
+- React
+- Node.js
+- Express
+- Flutter
+- Supabase
+- MongoDB
+- Git & GitHub
+
+**Creative Tools**
+- DaVinci Resolve
+- Blackmagic Camera
+- Adobe Suite
+
+---
+
+## 🎯 What I’m Building
+
+- 🌐 Scalable web apps with clean architecture  
+- 🤖 AI-powered assistants & automation  
+- 🎬 Short films, web series, and visual narratives  
+- 🏗️ A growing ecosystem under **Knot — Beyond Expectations**
+
+---
+
+## 🧭 Philosophy
+
+> *Respect the past.  
+Master the present.  
+Build for the future.*
+
+I believe discipline beats motivation,  
+clarity beats complexity,  
+and consistency quietly wins.
+
+---
+
+## 📈 GitHub Stats
+
+![Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=Knotxaadi&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Knotxaadi&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🔗 Let’s Connect
+
+- 🌍 Portfolio: *coming soon*
+- 🎬 Production: **Knot Creations**
+- 🐦 X (Twitter): [@KnotXaadi](https://x.com/KnotXaadi)
+
+---
+
+⭐ *If my work helps you, feel free to star a repo.  
+Every star is a quiet handshake.*
